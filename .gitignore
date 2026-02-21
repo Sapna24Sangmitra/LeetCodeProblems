@@ -18,6 +18,9 @@ env/
 .DS_Store
 Thumbs.db
 
+# IDE
+.vscode/
+
 # Template files
 /template.py
 /lc.py
